@@ -1,5 +1,3 @@
-# LOKESH-PCB-ALTIUM-DESIGNER
-PCB design project developed using Altium Designer, featuring component placement, PCB routing, copper layout, solder mask design, and 3D visualization.
 # 🔌 LOKESH PCB DESIGN — Altium Designer
 
 A printed circuit board (PCB) design project developed using **Altium Designer**. This repository contains the PCB layout, design files, and visual documentation of the completed design.
