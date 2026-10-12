@@ -1,0 +1,69 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\Public\Documents\Altium\esp32 project\ESP32\Project Outputs for ESP32\Pick Place\Pick Place for PCBesp32(prototype).csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       11-10-26,,,,,,,
+Time:       15:48,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    prototype,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+U3,TL1963A-33DCYR,TopLayer,DCY0004A_N,780,290,0,IC REG LIN 3.3V 1.5A SOT-223-4
+U2,FT231XQ-R,TopLayer,FP-QFN-20-IPC_B,710,770,270,IC USB SERIAL FULL UART 20QFN
+U1,ESP32-S3-MINI-1-N8,TopLayer,XCVR_ESP32-S3-MINI-1-N8,2444.409,500.394,270,"SMD module, ESP32-S3FN8, 8 MB SPI flash, PCB antenna"
+SW2,PTS645SH50SMTR92 LFS,TopLayer,FP-PTS645SH50SMTR92LFS,1400,750,180,Switch Tactile N.O SPST Round Button Gull Wing 0.05A 12VDC 100000Cycle 1.96N SMD T/R
+SW1,PTS645SH50SMTR92 LFS,TopLayer,FP-PTS645SH50SMTR92LFS,1400,250,180,Switch Tactile N.O SPST Round Button Gull Wing 0.05A 12VDC 100000Cycle 1.96N SMD T/R
+R24,0R,TopLayer,RESC1005X37N,1915,469.445,0,RES 0 OHM JUMPER 1/16W 0402
+R23,0R,TopLayer,RESC1005X37N,1915.003,546.359,0,RES 0 OHM JUMPER 1/16W 0402
+R22,27R,TopLayer,RESC1005X37N,2030,780,0,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 27O 0402 Chip Resistor - Surface Mount ROHS
+R21,27R,TopLayer,RESC1005X37N,2030,830,0,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 27O 0402 Chip Resistor - Surface Mount ROHS
+R20,0R,TopLayer,RESC1005X37N,2181.011,155.54,180,RES 0 OHM JUMPER 1/16W 0402
+R19,0R,TopLayer,RESC1005X37N,2095.97,155.54,180,RES 0 OHM JUMPER 1/16W 0402
+R18,10K,TopLayer,RESC1005X37N,1655,285,90,Res Thick Film 0402 10K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200
+R17,10K,TopLayer,RESC1005X37N,997,826,90,Res Thick Film 0402 10K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200
+R16,10K,TopLayer,RESC1005X37N,997,665.919,270,Res Thick Film 0402 10K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200
+R15,"5.1K,0402",TopLayer,RESC1005X37N,435,255,90,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 5.1kO 0402 Chip Resistor - Surface Mount ROHS
+R14,"5.1K,0402",TopLayer,RESC1005X37N,430,145,270,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 5.1kO 0402 Chip Resistor - Surface Mount ROHS
+R13,10K,TopLayer,RESC1005X37N,865,580,180,Res Thick Film 0402 10K Ohm 1% 0.063W(1/16W) ±100ppm/C Pad SMD T/R Automotive AEC-Q200
+R12,"5.1K,0402",TopLayer,RESC1005X37N,405,840,90,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 5.1kO 0402 Chip Resistor - Surface Mount ROHS
+R11,"5.1K,0402",TopLayer,RESC1005X37N,405,735,270,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 5.1kO 0402 Chip Resistor - Surface Mount ROHS
+R10,"4.7K,0402",TopLayer,RESC1005X37N,865,635,0,RES 4.7K OHM 1% 1/16W 0402
+R8,0R,TopLayer,RESC1005X37N,587.93,610.006,90,RES 0 OHM JUMPER 1/16W 0402
+R7,27R,TopLayer,RESC1005X37N,533,810,0,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 27O 0402 Chip Resistor - Surface Mount ROHS
+R6,27R,TopLayer,RESC1005X37N,532.506,752.469,0,62.5mW Thick Film Resistors 50V ±100ppm/? ±1% 27O 0402 Chip Resistor - Surface Mount ROHS
+R4,1K,TopLayer,RESC1005X37N,1790,800,270,"1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+R3,1K,TopLayer,RESC1005X37N,1791,201,90,"1 kOhms ±1% 0.063W, 1/16W Chip Resistor 0402 (1005 Metric) Moisture Resistant Thick Film"
+Q2,SS8050-G,TopLayer,FP-SS8050-G-IPC_B,1113,798,0,Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
+Q1,SS8050-G,TopLayer,FP-SS8050-G-IPC_B,1112.423,662.402,0,Bipolar (BJT) Transistor NPN 25 V 1.5 A 100MHz 300 mW Surface Mount SOT-23-3
+J6,FTS-102-01-F-S,TopLayer,HDR_1X2_1.27MM_-_duplicate,1405,500,90,"Connector Header Through Hole 2 position 0.050 (1.27mm)"""
+J5,FTS-103-01-F-S,TopLayer,HDR_1X3_1.27MM,375,500,0,"Pin Header, Board-to-Board, Wire-to-Board, 3.4 A, 1.27 mm, 1 Rows, 3 Contacts, Through Hole"
+J4,217179-0001,TopLayer,FP-2171790001-MFG,157.579,220.079,270,"USB Connector, 16 Contact(s), Female, Right Angle, Surface Mount Terminal, Locking, Receptacle"
+J3,217179-0001,TopLayer,FP-2171790001-MFG,157.579,779.921,270,"USB Connector, 16 Contact(s), Female, Right Angle, Surface Mount Terminal, Locking, Receptacle"
+J2,22284245,BottomLayer,HDR_1x24_2.54MM,1548.5,49.5,90,"Connector Header Through Hole 24 position 0.100 (2.54mm)"""
+J1,22284245,BottomLayer,HDR_1x24_2.54MM,1548.5,949.5,90,"Connector Header Through Hole 24 position 0.100 (2.54mm)"""
+D8,AQ3045-01ETG,TopLayer,SOD882,360,150,90,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D7,AQ3045-01ETG,TopLayer,SOD882,360.714,241.776,270,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D6,AQ3045-01ETG,TopLayer,SOD882,382.795,365,0,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D5,AQ3045-01ETG,TopLayer,SOD882,340,735,90,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D4,AQ3045-01ETG,TopLayer,SOD882,340.312,827.07,270,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D3,AQ3045-01ETG,TopLayer,SOD882,340,625,0,TVS DIODE 12VC 3A SOD882 / ESD Suppressor TVS Bi-Dir 5.3V Automotive 2-Pin SOD-882 T/R
+D2,RED,TopLayer,LED0402red,1730,800,270,Red 631nm LED Indication - Discrete 2V 0402 (1005 Metric)
+D1,GREEN,TopLayer,LED0402green,1730,200,90,Green 528nm LED Indication - Discrete 2.8V 0402 (1005 Metric)
+C16,"1uf,16V",TopLayer,CAPC1005X65N,1656,199,90,35V 1uF X5R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C15,"100nf,50v",TopLayer,CAPC1005X65N,2599.629,861.038,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C14,"10uf,25V",TopLayer,CAPC1005X65N,2515,860.595,0,10V 10uF X5R ?20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C13,"10uf,25V",TopLayer,CAPC1005X65N,524.706,219.732,270,10V 10uF X5R ?20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C12,"10uf,25V",TopLayer,CAPC1005X65N,580,220,270,10V 10uF X5R ?20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C11,"4.7uf,16V",TopLayer,CAPC1005X65N,580,360,90,16V 4.7uF X5R ?20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C10,"100nf,50v",TopLayer,CAPC1005X65N,479.925,368,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C9,"100nf,50v",TopLayer,CAPC1005X65N,532.506,863.678,0,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C8,"100nf,50v",TopLayer,CAPC1005X65N,533,694,0,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C6,"100nf,50v",TopLayer,CAPC1005X65N,899.742,788.315,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C5,"100nf,50v",TopLayer,CAPC1005X65N,2680,137,0,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C4,"100nf,50v",TopLayer,CAPC1005X65N,2685.8,859.422,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C3,"4.7uf,16V",TopLayer,CAPC1005X65N,715,555,180,16V 4.7uF X5R ?20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C2,"100nf,50v",TopLayer,CAPC1005X65N,715,610,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
+C1,"100nf,50v",TopLayer,CAPC1005X65N,440,625,180,50V 100nF X7R ?10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS
