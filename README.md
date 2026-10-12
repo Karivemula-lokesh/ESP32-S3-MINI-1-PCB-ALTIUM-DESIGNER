@@ -117,67 +117,49 @@ ESP32-S3-MINI-1-PCB/
 | `Pick Place for PCBesp32(prototype).xlsx` | Pick-and-place data for component assembly |
 | `Status Report.txt` | Output job status report |
 | `images/` | PCB screenshots and visual documentation |
-
 ## 🖼️ PCB Design Preview
 
 ### 📐 2D PCB Layout — All Layers
 
-[![ESP32-S3-MINI-1 PCB Layout](images/All%20Layers.png)](images/All%20Layers.png)
+[![ESP32-S3-MINI-1 PCB Layout](ESP32-S3-MINI-1/images/All%20Layers.png)](ESP32-S3-MINI-1/images/All%20Layers.png)
 
-**[🔍 Click here to view the 2D PCB layout](images/All%20Layers.png)**
-
-*Combined PCB layer view showing the overall board layout and routing.*
+**[🔍 Click here to view the full-size 2D PCB layout](ESP32-S3-MINI-1/images/All%20Layers.png)**
 
 ### 🧊 3D PCB Visualization — Front View
 
-[![ESP32-S3-MINI-1 3D PCB Front View](images/esp32%20board%20front%20view.png)](images/esp32%20board%20front%20view.png)
+[![ESP32-S3-MINI-1 PCB Front View](ESP32-S3-MINI-1/images/esp32%20board%20front%20view.png)](ESP32-S3-MINI-1/images/esp32%20board%20front%20view.png)
 
-**[🔍 Click here to view the 3D PCB front view](images/esp32%20board%20front%20view.png)**
-
-*Three-dimensional visualization of the front side of the PCB.*
+**[🔍 Click here to view the full-size 3D PCB front view](ESP32-S3-MINI-1/images/esp32%20board%20front%20view.png)**
 
 ### 🔄 3D PCB Visualization — Back View
 
-[![ESP32-S3-MINI-1 3D PCB Back View](images/esp32%20board%20back%20view.png)](images/esp32%20board%20back%20view.png)
+[![ESP32-S3-MINI-1 PCB Back View](ESP32-S3-MINI-1/images/esp32%20board%20back%20view.png)](ESP32-S3-MINI-1/images/esp32%20board%20back%20view.png)
 
-**[🔍 Click here to view the 3D PCB back view](images/esp32%20board%20back%20view.png)**
+**[🔍 Click here to view the full-size 3D PCB back view](ESP32-S3-MINI-1/images/esp32%20board%20back%20view.png)**
 
-*Three-dimensional visualization of the back side of the PCB.*
+### 🔬 Top and Bottom Layers
 
-## 🔬 Additional PCB Layer Views
+[![PCB Top and Bottom Layers](ESP32-S3-MINI-1/images/Top%20and%20Bottom.png)](ESP32-S3-MINI-1/images/Top%20and%20Bottom.png)
 
-### Top and Bottom Layers
+**[View Top and Bottom Layers](ESP32-S3-MINI-1/images/Top%20and%20Bottom.png)**
 
-[![PCB Top and Bottom Layers](images/Top%20and%20Bottom.png)](images/Top%20and%20Bottom.png)
+### 🔝 Top Copper Layer
 
-**[View Top and Bottom Layers](images/Top%20and%20Bottom.png)**
+[![PCB Top Layer](ESP32-S3-MINI-1/images/Top%20Layer.png)](ESP32-S3-MINI-1/images/Top%20Layer.png)
 
-*Visualization of the top and bottom copper layers.*
+**[View Top Copper Layer](ESP32-S3-MINI-1/images/Top%20Layer.png)**
 
-### Top Copper Layer
+### 🔻 Bottom Layer
 
-[![PCB Top Layer](images/Top%20Layer.png)](images/Top%20Layer.png)
+[![PCB Bottom View](ESP32-S3-MINI-1/images/bottom%20view.png)](ESP32-S3-MINI-1/images/bottom%20view.png)
 
-**[View Top Copper Layer](images/Top%20Layer.png)**
+**[View Bottom Layer](ESP32-S3-MINI-1/images/bottom%20view.png)**
 
-*Top copper layer showing the corresponding PCB routing and layout.*
+### 🏷️ Top Overlay Layer
 
-### Bottom Layer
+[![PCB Top Overlay](ESP32-S3-MINI-1/images/Top%20overlay.png)](ESP32-S3-MINI-1/images/Top%20overlay.png)
 
-[![PCB Bottom View](images/bottom%20view.png)](images/bottom%20view.png)
-
-**[View Bottom Layer](images/bottom%20view.png)**
-
-*Bottom-side PCB layout and routing visualization.*
-
-### Top Overlay Layer
-
-[![PCB Top Overlay](images/Top%20overlay.png)](images/Top%20overlay.png)
-
-**[View Top Overlay](images/Top%20overlay.png)**
-
-*Top overlay showing component outlines, reference designators, and placement information.*
-
+**[View Top Overlay](ESP32-S3-MINI-1/images/Top%20overlay.png)**
 ## 🔍 Design Workflow
 
 1. Created the PCB design in Altium Designer.
